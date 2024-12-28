@@ -1,19 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on My Small Buisness</title>
-    <link>http://localhost:1313/post/</link>
-    <description>Recent content in Posts on My Small Buisness</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 09 Jan 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My Small Buisness</title>
-      <link>http://localhost:1313/post/readme/</link>
-      <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/readme/</guid>
-      <description>&lt;h1 id=&#34;clean-white-theme-for-hugo&#34;&gt;Clean White Theme for Hugo&lt;/h1&gt;&#xA;&lt;p&gt;CleanWhite is a clean, elegant, but fully functional blog theme for Hugo. Here is a live &lt;a href=&#34;https://zhaohuabing.com&#34;&gt;demo site&lt;/a&gt; using this theme.&lt;/p&gt;&#xA;&lt;p&gt;It is based on &lt;a href=&#34;https://github.com/Huxpro/huxpro.github.io&#34;&gt;huxblog Jekyll Theme&lt;/a&gt;&#xA;and &lt;a href=&#34;https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll&#34;&gt;Clean Blog Jekyll Theme&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;These two upstream projects have done awesome jobs to create a blog theme, what I&amp;rsquo;m doing here is porting it to Hugo, of which I like the simplicity and the much faster compiling speed. Some other features which I think could be useful, such as site search with algolia and proxy for Disqus access in China, have also been built in the CleanWhite theme. Other fancy features of upstream projects are not supported by this Hugo theme, I&amp;rsquo;d like to make it as simple as possible and only focus on blog purpose, at least for now.&#xA;While I created this theme, I followed the Hugo theme best practice and tried to make every part of the template as a replaceable partial html, so it could be much easier for you to make your customization based on it.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on My Small Buisness</title><link>https://sophia26750.github.io/post/</link><description>Recent content in Posts on My Small Buisness</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 09 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://sophia26750.github.io/post/index.xml" rel="self" type="application/rss+xml"/><item><title>My Small Buisness</title><link>https://sophia26750.github.io/post/readme/</link><pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate><guid>https://sophia26750.github.io/post/readme/</guid><description>&lt;h1 id="clean-white-theme-for-hugo">Clean White Theme for Hugo&lt;/h1>
+&lt;p>CleanWhite is a clean, elegant, but fully functional blog theme for Hugo. Here is a live &lt;a href="https://zhaohuabing.com">demo site&lt;/a> using this theme.&lt;/p>
+&lt;p>It is based on &lt;a href="https://github.com/Huxpro/huxpro.github.io">huxblog Jekyll Theme&lt;/a>
+and &lt;a href="https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll">Clean Blog Jekyll Theme&lt;/a>.&lt;/p>
+&lt;p>These two upstream projects have done awesome jobs to create a blog theme, what I&amp;rsquo;m doing here is porting it to Hugo, of which I like the simplicity and the much faster compiling speed. Some other features which I think could be useful, such as site search with algolia and proxy for Disqus access in China, have also been built in the CleanWhite theme. Other fancy features of upstream projects are not supported by this Hugo theme, I&amp;rsquo;d like to make it as simple as possible and only focus on blog purpose, at least for now.
+While I created this theme, I followed the Hugo theme best practice and tried to make every part of the template as a replaceable partial html, so it could be much easier for you to make your customization based on it.&lt;/p></description></item></channel></rss>
