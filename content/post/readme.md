@@ -1,10 +1,10 @@
 ---
 layout:     posts
-title:      "My Small Buisness"
+title:      "An introduction to this website"
 subtitle:   "A small buisness to give back to my community."
 date:       2024-12-31
 author:     "Sophia"
-image:      "https://img.zhaohuabing.com/post-bg-2015.jpg"
+# image:      "https://img.zhaohuabing.com/post-bg-2015.jpg"
 ---
 
 # Introduction 
