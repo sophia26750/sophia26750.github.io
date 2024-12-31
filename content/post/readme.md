@@ -7,7 +7,7 @@ author:     "赵化冰"
 image:      "https://img.zhaohuabing.com/post-bg-2015.jpg"
 ---
 
-# Test test test 
+# This is prod now 
 
 CleanWhite is a clean, elegant, but fully functional blog theme for Hugo. Here is a live [demo site](https://zhaohuabing.com) using this theme.  
 
