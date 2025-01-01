@@ -130,6 +130,9 @@ home = ["HTML", "RSS", "Algolia"]
   [[params.addtional_menus]]
   title =  "Art Examples"
   href =  "/artExamples/"
+  [[params.addtional_menus]]
+  title =  "Code"
+  href =  "/code/"
 
 [outputFormats.Algolia]
 baseName = "algolia"
