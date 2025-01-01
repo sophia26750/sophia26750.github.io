@@ -18,7 +18,7 @@ When I began creating this website, I ran into numerous issues with Hugo and  Gi
 # Start
 
 1. Install Hugo:
-```
+``` 
 brew install hugo
 ```
 
@@ -26,7 +26,7 @@ brew install hugo
 3. In the desired template, press the download button. This will bring you to the GitHub page. 
 4. Scroll down to read the instructions provided in the README. 
 
-_Most Hugo Themes require these steps but may differ from theme to theme._ 
+_For this next step, most Hugo Themes require these steps but may differ from theme to theme._ 
 
 5. 
  ```
@@ -52,7 +52,18 @@ $ git clone https://github.com/gurusabarish/hugo-profile.git
 # GitHub
 For the following, this is how to set up your website for deployment. 
 
-1. Create a new repository using Github. 
+1. Create a new repository using Github.
+![Screenshot](/screenshot_1.jpg)  
+
+2. Add a repository name in this format: "any-name-you-want.github.io" 
+
+3. Check yes for "Public" and "Add a README file"
+
+4. Press create repository. 
+
+5. Drag the themes folder into the new created repository using finder for MacOS. 
+
+6. 
 
 4. set up github Actions for deploying code to GitHub pages 
 this sets up the .github file, which has [hugo.yml](../../.github/workflows/hugo.yml) file     
