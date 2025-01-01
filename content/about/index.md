@@ -13,7 +13,7 @@ Starting Sophomore year of highschool, her friend's birthday was inching near, a
 
 
 <!-- Required image to be in same directory that's why image in this file -->
-![Friend's Cat](./friend's-cat.jpg) 
+![Friend's Cat](/friend's-cat.jpg) 
 ###### ***Sophia's painting of April***
 
 --- 
