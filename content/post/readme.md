@@ -1,6 +1,6 @@
 ---
 layout:     posts
-title:      "An introduction to this website"
+title:      "Introduction to this website"
 subtitle:   "A small buisness to give back to my community."
 date:       2024-12-31
 author:     "Sophia"
@@ -19,10 +19,7 @@ and [Clean Blog Jekyll Theme](https://github.com/BlackrockDigital/startbootstrap
 
 I have joined numerous art competitions, but none of them really spoke to me that I was able to help someone. On top of that, entering into highschool allowed me to realize I love coding. As a result, I realized that I could combine both skills together. 
 
-This website 
-
-These two upstream projects have done awesome jobs to create a blog theme, what I'm doing here is porting it to Hugo, of which I like the simplicity and the much faster compiling speed. Some other features which I think could be useful, such as site search with algolia and proxy for Disqus access in China, have also been built in the CleanWhite theme. Other fancy features of upstream projects are not supported by this Hugo theme, I'd like to make it as simple as possible and only focus on blog purpose, at least for now.
-While I created this theme, I followed the Hugo theme best practice and tried to make every part of the template as a replaceable partial html, so it could be much easier for you to make your customization based on it.
+I hope that everyone who sees this page will find it beneficial, joyful, and even useful for their future. Please email me if you have any further questions!
 
 ## Screenshots
 
