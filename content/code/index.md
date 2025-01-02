@@ -61,9 +61,35 @@ For the following, this is how to set up your website for deployment.
 
 4. Press create repository. 
 
-5. Drag the themes folder into the new created repository using finder for MacOS. 
+5. Drag the themes folder into the new created repository (it should be a folder with your repository name) using finder for MacOS.
 
-6. 
+6. Use terminal to cd into the repository folder. Click on branches 
+
+From here, we should create a new branch to prevent error in the main deployment of your website's project. 
+
+7. Go to your Github account and open your repository, and press on branches.
+[Screenshot](/screenshot_2.jpg) 
+
+8. Then press on new branch in the top right corner. Name this branch and press create new branch! 
+[Screenshot](/screenshot_3.jpg) 
+
+You have now created a new branch on _Github_. However, your _local comupter_ is not aware of this new branch, and you are still working on main. 
+
+9. To transition into the new branch, input each line one by one into terminal (make sure you are still in your repository folder). 
+```
+$ git checkout main 
+$ git pull 
+$ git checkout -b "name of branch you want"
+```
+10. If you are using Visual Studios, make sure you are in the repository folder and input into terminal :
+```
+code .
+``` 
+11. Now check if you are in your branch by checking the bottom left corner. 
+[Screenshot](/screenshot_4.jpg) 
+
+
+In this part of the code required, you
 
 4. set up github Actions for deploying code to GitHub pages 
 this sets up the .github file, which has [hugo.yml](../../.github/workflows/hugo.yml) file     
