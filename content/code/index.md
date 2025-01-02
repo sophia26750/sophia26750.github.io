@@ -68,10 +68,10 @@ For the following, this is how to set up your website for deployment.
 From here, we should create a new branch to prevent error in the main deployment of your website's project. 
 
 7. Go to your Github account and open your repository, and press on branches.
-[Screenshot](/screenshot_2.jpg) 
+![Screenshot](/screenshot_2.jpg) 
 
 8. Then press on new branch in the top right corner. Name this branch and press create new branch! 
-[Screenshot](/screenshot_3.jpg) 
+![Screenshot](/screenshot_3.jpg) 
 
 You have now created a new branch on _Github_. However, your _local comupter_ is not aware of this new branch, and you are still working on main. 
 
@@ -86,10 +86,46 @@ $ git checkout -b "name of branch you want"
 code .
 ``` 
 11. Now check if you are in your branch by checking the bottom left corner. 
-[Screenshot](/screenshot_4.jpg) 
+![Screenshot](/screenshot_4.jpg) 
+
+#### At this point, a branch has been created. However, for the safest option, testing your website by inputting 
+```
+hugo serve 
+```
+#### This will run a local server of your website, which allows you to see your progress as you change the code in your website. 
+
+---
+
+# Setting up deployment of your website
+### In this portion, this will allow you to publish your website using Github pages. 
+#### _There are many ways one could do this, but this is the easiest way I did:_ 
+
+1. Make sure you are still in your repository and your branch. 
+ 
+2. In Visual Studios, add a folder and name it .github
+![Screenshot](/screenshot_5.jpg) 
+
+3. Create a folder in .github and name it workflows
+
+4. In workflows, create a new file named hugo.yml
+![Screenshot](/screenshot_6.jpg) 
+
+### This folder and file is known as github Actions. This helps deploy code to Github pages everytime the repository link is open. 
+
+### Right now, the changes made are stored in the branch. In order allow main to see the changes made and publish it on a website, the code needs to be converted into HTML or Javascript. This conversion is knows as minify. 
+
+### To allow your code to automatically minify, follow the following steps. 
+
+5. Set up github Actions for deploying code to GitHub pages by copying and pasting the following code into your [hugo.yml](../../.github/workflows/hugo.yml) file (click the hugo.yml for the code required). 
+
+6. Commit your branch into main .
+    1. go to your repository in Github
+    2. Press Pull requests 
+    ![Screenshot](/screenshot_7.jpg)   
+    3. Press Create pull request
+    ![Screenshot](/screenshot_8.jpg)
+    4. change compare:main to your branch that you want to commit
+    ![Screenshot](/screenshot_9.jpg) 
+    5. Press Create pull request.  
 
 
-In this part of the code required, you
-
-4. set up github Actions for deploying code to GitHub pages 
-this sets up the .github file, which has [hugo.yml](../../.github/workflows/hugo.yml) file     
