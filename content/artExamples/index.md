@@ -5,6 +5,10 @@
 
 <!-- Insert images here for later -->
 
+#### Watercolor: A drawing of a dragon and pheonix in yinyang format.
+![Yinyang dragon](/watercolor.jpg)
+
+---
 
 #### Pen and ink: Drawing of a Chimera (lion, goat, and snake).
 ![Chimera pen](/pen.jpg) 
@@ -26,9 +30,28 @@
 
 ---
 
-#### Watercolor: A drawing of a dragon and pheonix in yinyang format.
-![Yinyang dragon](/watercolor.jpg)
+#### Watercolor: Drawing of a cat touching snow. 
+![Watercolor cat](/watercolor_2.jpg)
 
+---
+
+#### Watercolor: Drawing of a cat peering into the distance 
+![Watercolor cat](/watercolor_3.jpg)
+
+---
+
+#### Colored Pencils: Drawing of birds flying. 
+![Colored pencil birds](/color_pencil.JPG)
+
+---
+
+#### Colored Pencils: Drawing of cat with a mix of clocks for modifications. 
+![Colored pencil of time cat](/color_pencil_2.jpg)
+
+
+
+
+---
 ---
 
 # For more examples, please visit my portfolio. This includes my art journey in school starting from freshman year! 

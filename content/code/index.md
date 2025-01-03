@@ -88,11 +88,25 @@ code .
 11. Now check if you are in your branch by checking the bottom left corner. 
 ![Screenshot](/screenshot_4.jpg) 
 
-At this point, a branch has been created. However, for the safest option, testing your website by inputting 
+At this point, a branch has been created. Run your website locally by inputting this into terminal:
 ```
 hugo serve 
 ```
-This will run a local server of your website, which allows you to see your progress as you change the code in your website. 
+_This will run a local server of your website._ This means the Github pages link doe snot work yet. For the safest option, running the program locally allows you to see direct changes without the public seeing possible errors. 
+
+---
+# Website Making 
+
+When you are working and changing your website, it is always important to continously commit the current code to your branch in case of huge errors because you could restore your code back to your last change. If your code were to blow up, you can access your branches and restore the versin before blowup. The more commits you make, the safer your chances are of restoring if accidents were to happen. 
+
+1. If your website it running with Hugo Serve, make sure to end it with crtl + c
+2. Enter the following code:
+```
+git status
+git add .
+git  
+```
+
 
 ---
 
