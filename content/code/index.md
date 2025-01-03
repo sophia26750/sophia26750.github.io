@@ -88,11 +88,11 @@ code .
 11. Now check if you are in your branch by checking the bottom left corner. 
 ![Screenshot](/screenshot_4.jpg) 
 
-#### At this point, a branch has been created. However, for the safest option, testing your website by inputting 
+At this point, a branch has been created. However, for the safest option, testing your website by inputting 
 ```
 hugo serve 
 ```
-#### This will run a local server of your website, which allows you to see your progress as you change the code in your website. 
+This will run a local server of your website, which allows you to see your progress as you change the code in your website. 
 
 ---
 
@@ -110,11 +110,11 @@ hugo serve
 4. In workflows, create a new file named hugo.yml
 ![Screenshot](/screenshot_6.jpg) 
 
-### This folder and file is known as github Actions. This helps deploy code to Github pages everytime the repository link is open. 
+This folder and file is known as github Actions. This helps deploy code to Github pages everytime the repository link is open. 
 
-### Right now, the changes made are stored in the branch. In order allow main to see the changes made and publish it on a website, the code needs to be converted into HTML or Javascript. This conversion is knows as minify. 
+Right now, the changes made are stored in the branch. In order allow main to see the changes made and publish it on a website, the code needs to be converted into HTML or Javascript. This conversion is knows as minify. 
 
-### To allow your code to automatically minify, follow the following steps. 
+To allow your code to automatically minify, follow the following steps. 
 
 5. Set up github Actions for deploying code to GitHub pages by copying and pasting the following code into your [hugo.yml](../../.github/workflows/hugo.yml) file (click the hugo.yml for the code required). 
 
@@ -126,6 +126,22 @@ hugo serve
     ![Screenshot](/screenshot_8.jpg)
     4. change compare:main to your branch that you want to commit
     ![Screenshot](/screenshot_9.jpg) 
-    5. Press Create pull request.  
+    5. Press Create pull request. 
+    6. There will be an option to delete previous branch. Make sure you do. 
 
+The following steps are for seeing the website:
+
+7. Go to Settings and go to Pages  
+![Screenshot](/screenshot_10.jpg) 
+![Screenshot](/screenshot_11.jpg) 
+
+8. Change the source from deploying from branch to Github actions. 
+![Screenshot](/screenshot_12.jpg) 
+
+This allows you to open your website and see the changes you have made. This also allows you to minify all files you have for your hugo website without you needing to make it yourself. 
+
+If a new branch is needed in future, this allows you to run the website locally to see changes. _BUT_ when the branch is merged with main, it does not require you to minify all files; it will automatically do it.  
+
+9. To see your website go to the link at the top where it says **"Your site is live at"**
+![Screenshot](/screenshot_13.jpg) 
 
