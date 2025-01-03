@@ -2,11 +2,11 @@
 layout:     posts
 title:      "My Artworks"
 subtitle:   "Some of my artworks throughout my life."
-date:       2025-01-03
+date:       2025-01-02
 author:     "Sophia"
 # image:      "/watercolor.jpg/"
 ---
-
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
 # Here are some of my art! 
 ### Mostly animal related!
 
@@ -23,7 +23,6 @@ author:     "Sophia"
 ![Watercolor swans](/watercolor_4.jpg)
 
 ---
-
 
 #### Pen and ink: Drawing of a Chimera (lion, goat, and snake).
 ![Chimera pen](/pen.jpg) 
