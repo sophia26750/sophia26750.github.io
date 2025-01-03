@@ -104,9 +104,23 @@ When you are working and changing your website, it is always important to contin
 ```
 git status
 git add .
-git  
+git commit -m "Add a good note of the changes you did in the quotes. You can will see these on Github later."
+git push origin branchName
 ```
+What these commands do:
 
+| Git command | Action | 
+|----------|----------|
+| git status | Seeing which files were added or changed before adding them to branch (this is to double check if all files changed are desired to be commited and usually they all are) |
+| git add . | Updating the code into the git | 
+| git commit -m "Type good message" | Now commiting the added changes to the branch you have  | 
+| git push origin yourBranchName | This will inform Github of your new updated changes so you can refer back to them later. | 
+
+3. If error was to occur and you want to restore previous branch commit. Go here (for visual studios)
+![Screenshot](/screenshot_14.jpg)
+
+4. You can view the changes you made here. To discard previous changes, press this:
+![Screenshot](/screenshot_15.jpg)
 
 ---
 
