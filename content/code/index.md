@@ -97,10 +97,12 @@ _This will run a local server of your website._ This means the Github pages link
 ---
 # Website Making 
 
+Most websites will be using markdown as its main language for coding. Click here for a YouTube video that e
+
 When you are working and changing your website, it is always important to continously commit the current code to your branch in case of huge errors because you could restore your code back to your last change. If your code were to blow up, you can access your branches and restore the versin before blowup. The more commits you make, the safer your chances are of restoring if accidents were to happen. 
 
 1. If your website it running with Hugo Serve, make sure to end it with crtl + c
-2. Enter the following code:
+2. Enter the following code line by line into terminal:
 ```
 git status
 git add .
@@ -111,10 +113,10 @@ What these commands do:
 
 | Git command | Action | 
 |----------|----------|
-| git status | Seeing which files were added or changed before adding them to branch (this is to double check if all files changed are desired to be commited and usually they all are) |
-| git add . | Updating the code into the git | 
-| git commit -m "Type good message" | Now commiting the added changes to the branch you have  | 
-| git push origin yourBranchName | This will inform Github of your new updated changes so you can refer back to them later. | 
+| git status | Is a command used in Git, which is a version control system that helps manage code changes and project history. It shows you the current state of your working directory and staging area. |
+| git add . | When you run this command, it stages all the modified, newly created, and deleted files in the directory for the next commit. The "." adds all the changes in the current directory and its subdirectories to the staging area. | 
+| git commit -m "Type good message" | Creates a new commit with a message that describes the changes you've made. | 
+| git push origin yourBranchName | Pushes your local branch to the remote repository. | 
 
 3. If error was to occur and you want to restore previous branch commit. Go here (for visual studios)
 ![Screenshot](/screenshot_14.jpg)

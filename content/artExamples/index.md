@@ -10,6 +10,12 @@
 
 ---
 
+#### Watercolor: A drawing of two swans in a lake.
+![Watercolor swans](/watercolor_4.jpg)
+
+---
+
+
 #### Pen and ink: Drawing of a Chimera (lion, goat, and snake).
 ![Chimera pen](/pen.jpg) 
 
