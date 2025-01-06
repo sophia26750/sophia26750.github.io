@@ -96,9 +96,9 @@ At this point, a branch has been created. Run your website locally by inputting 
 ```
 hugo serve 
 ```
-_This will run a local server of your website._ This means the Github pages link doe snot work yet. For the safest option, running the program locally allows you to see direct changes without the public seeing possible errors. 
+_This will run a local server of your website._ This means the Github pages link does not work yet. For the safest option, running the program locally allows you to see direct changes without the public seeing possible errors. 
 
-12. You will see a link that looks something like: http://localhost:1313. Copy that link and paste it in your search bar. This will run a live server of your website as you make live changes. If you wish to end this, just press Crtl + c. just run hugo serve to bring the local server again. 
+12. You will see a link that looks something like: http://localhost:1313. Copy that link and paste it in your search bar. This will run a local server of your website that displays your live changes. If you wish to end this, just press Crtl + c. If you wish to bring it back, just input hugo serve into terminal to start the local server again. 
 
 ---
 ---
@@ -210,7 +210,7 @@ The following steps are for seeing the website and seeing Github's process of de
 
  ### Add new changes to website AFTER deleting branch
 
-10. If you want to create more changes, make sure you scroll back to __Github__ and find the steps for making a branch. _IT IS THE SAFEST OPTION TO CREATE A NEW BRANCH IF YOU WANT TO ADD TO YOUR WEBSITE_. Follow these steps:
+10. If you want to create more changes, make sure you make a new branch. _IT IS THE SAFEST OPTION TO CREATE A NEW BRANCH IF YOU WANT TO ADD TO YOUR WEBSITE_. Follow these steps:
 
     1. Because you deleted the branch in Github, your local computor is NOT aware of this change. To update your local status, bring up terminal and input these lines:
     ```

@@ -19,6 +19,11 @@ author:     "Sophia"
 
 ---
 
+#### Acrylic Paint: A drawing of a cat for friend's birthday on a tote bag. 
+![Acrylic paint cat](/acrylic_paint_2.jpg)
+
+---
+
 #### Watercolor: A drawing of two swans in a lake.
 ![Watercolor swans](/watercolor_4.jpg)
 
@@ -61,7 +66,6 @@ author:     "Sophia"
 
 #### Colored Pencils: Drawing of cat with a mix of clocks for modifications. 
 ![Colored pencil of time cat](/color_pencil_2.jpg)
-
 
 
 
