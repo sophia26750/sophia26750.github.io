@@ -4,7 +4,7 @@ title:      "My Artworks"
 subtitle:   "Some of my artworks throughout my life."
 date:       2025-01-02
 author:     "Sophia"
-# image:      "/watercolor.jpg/"
+image:      "/art_bg.jpg/"
 ---
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
 # Here are some of my art! 

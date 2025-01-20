@@ -4,7 +4,7 @@ title:      "The Coding Behind the Scenes"
 subtitle:   "How I coded this website and published it."
 date:       2024-12-31
 author:     "Sophia"
-# image:      "https://img.zhaohuabing.com/post-bg-2015.jpg"
+image:      "coding_bg.jpg"
 ---
 
 ### A Light Introduction
