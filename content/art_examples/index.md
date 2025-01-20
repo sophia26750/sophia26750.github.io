@@ -4,7 +4,7 @@ title:      "My Artworks"
 subtitle:   "Some of my artworks throughout my life."
 date:       2025-01-02
 author:     "Sophia"
-# image:      "/watercolor.jpg/"
+image:      "/art_bg.jpg/"
 ---
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
 # Here are some of my art! 
@@ -16,6 +16,11 @@ author:     "Sophia"
 
 #### Watercolor: A drawing of a dragon and pheonix in yinyang format.
 ![Yinyang dragon](/watercolor.jpg)
+
+---
+
+#### Acrylic Paint: A drawing of a cat for friend's birthday on a tote bag. 
+![Acrylic paint cat](/acrylic_paint_2.jpg)
 
 ---
 
@@ -61,7 +66,6 @@ author:     "Sophia"
 
 #### Colored Pencils: Drawing of cat with a mix of clocks for modifications. 
 ![Colored pencil of time cat](/color_pencil_2.jpg)
-
 
 
 

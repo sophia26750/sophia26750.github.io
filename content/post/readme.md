@@ -21,7 +21,7 @@ I have joined numerous art competitions, but none of them really spoke to me tha
 
 I hope that everyone who sees this page will find it beneficial, joyful, and even useful for their future. Please email me if you have any further questions!
 
-## Screenshots
+<!-- ## Screenshots
 
 **Home**
 ![screenshot](/img/fullscreenshot.png)
@@ -161,4 +161,4 @@ Thanks for the great jobs of [huxblog Jekyll Theme](https://github.com/Huxpro/hu
 If you find any problems, please feel free to [raise an issue](https://github.com/zhaohuabing/hugo-theme-cleanwhite/issues/new) or create a pull request to fix it. 
 
 If it's helpful for you, I would appreciate it if you could star this repository, thanks!
-
+ -->
