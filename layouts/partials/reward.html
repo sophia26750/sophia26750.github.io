@@ -1,0 +1,44 @@
+
+<div class="entry-shang text-center">
+    {{ if .Site.Params.reward_guide }}
+	    <p> 「{{ .Site.Params.reward_guide }}」</p>
+	{{ else }}
+	    <p>「The button below is for payment methods via WeChat or Alipay」</p>
+	{{ end }}
+	<button class="zs show-zs btn btn-bred">Click here to pay!</button>
+</div>
+<div class="zs-modal-bg"></div>
+<div class="zs-modal-box">
+	<div class="zs-modal-head">
+		<button type="button" class="close">×</button>
+		<span class="author"><a href="{{ .Site.BaseURL }}"><img src="{{ "img/favicon.png" | relURL}}" />{{ .Site.Title }}</a></span>
+        {{ if .Site.Params.reward_guide }}
+	        <p class="tip"><i></i><span>{{ .Site.Params.reward_guide }}</span></p>
+		{{ else }}
+	        <p class="tip"><i></i><span>Thank you so much!</span></p>
+		{{ end }}
+ 
+	</div>
+	<div class="zs-modal-body">
+		<div class="zs-modal-btns">
+			<button class="btn btn-blink" data-num="2">$2</button>
+			<button class="btn btn-blink" data-num="5">$5</button>
+			<button class="btn btn-blink" data-num="10">$10</button>
+			<button class="btn btn-blink" data-num="50">$50</button>
+			<button class="btn btn-blink" data-num="100">$100</button>
+			<button class="btn btn-blink" data-num="1">Custom</button>
+		</div>
+		<div class="zs-modal-pay">
+			<button class="btn btn-bred" id="pay-text">2元</button>
+			<!-- <p><span id="pay-type"></span> Scan QR code to complete payment</p> -->
+			<p></span> Scan QR code to complete payment</p>
+			<img src= "/img/wechat_qrcode.jpg" alt= "pay-image" width="150" height="150">
+			<!-- <img src="{{ "/img/wechat_qrcode.jpg" | relURL }}"  id="pay-image"/> -->
+		</div>
+	</div>
+	<div class="zs-modal-footer">
+		<label><input type="radio" name="zs-type" value="wechat" class="zs-type" checked="checked"><span ><span class="zs-wechat"><img src="{{ "img/reward/wechat-btn.png" | relURL }}"/></span></label>
+		<label><input type="radio" name="zs-type" value="alipay" class="zs-type" class="zs-alipay"><img src="{{ "img/reward/alipay-btn.png" | relURL }}"/></span></label>
+	</div>
+</div>
+<script type="text/javascript" src="{{ "js/reward.js" | relURL }}"></script>
