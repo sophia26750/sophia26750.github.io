@@ -14,7 +14,7 @@ hasCJKLanguage = true
 home = ["HTML", "RSS", "Algolia"]
 
 [params]
-  header_image = "watercolor1.jpeg"
+  header_image = "IMG_6949.png"
   SEOTitle = "My Small Buisness | Sophia Wong"
   # description = " "
   keyword = "sophia, Sophia, Wong, wong, Art, art, Art payment, pet drawings, drawings, animal drawings, watercolor, drawings, pets, my pet drawing, drawing of my pet"
