@@ -191,7 +191,7 @@ If a new branch is needed in future, this allows you to run the website locally 
     3. Press Create pull request __OR__ if Github shows your branch with the button "Compare &pull request" press that and skip step 4 and 5. 
     ![Screenshot](/screenshot_8.jpg)
     ![Screenshot](/screenshot_16.jpg)
-    4. change compare:main to your branch that you want to commit
+    4. change "compare: main" to your branch that you want to commit
     ![Screenshot](/screenshot_9.jpg) 
     5. Press Create pull request.
     6. This will bring you to textbox. Write a summary of all the changes you did in this branch. Then press Create pull request.  
