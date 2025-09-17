@@ -14,6 +14,13 @@ author:     "Sophia"
 
 <!-- Insert images here for later -->
 
+#### Watercolor: A drawing my Schauzer!.
+![Yinyang dragon](/IMG_7681.jpg)
+
+---
+
+---
+
 #### Watercolor: A drawing of a dragon and pheonix in yinyang format.
 ![Yinyang dragon](/watercolor.jpg)
 
