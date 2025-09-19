@@ -15,7 +15,7 @@ image:      "/art_bg.jpg/"
 <!-- Insert images here for later -->
 
 #### Watercolor: A drawing of my own dog!
-![HuiHui drawing](/IMG_7681.jpg)
+![HuiHui drawing](/huihui_drawing.jpg)
 ---
 
 <!-- Insert images here for later -->
@@ -31,17 +31,16 @@ image:      "/art_bg.jpg/"
 ---
 
 #### Watercolor: A drawing of two swans in a lake.
-![Watercolor swans](/watercolor_4.jpg)
+![Watercolor swans](/swan_drawing.jpg)
 
 ---
-
 #### Pen and ink: Drawing of a Chimera (lion, goat, and snake).
-![Chimera pen](/pen.jpg) 
+![Chimera pen](/Chimera.jpg) 
 
 ---
 
 #### Acrylic paint: drawing of my invented creature (Lion, crocodile, and coral reefs).
-![Invented Create](/acrylic.jpg)
+![Invented Creature](/invented_creature.jpg)
 
 ---
 
@@ -74,6 +73,25 @@ image:      "/art_bg.jpg/"
 ![Colored pencil of time cat](/color_pencil_2.jpg)
 
 
+---
+
+# Examples of my Art that are not animals! 
+
+![Landscape](/8foundation_Calendar_SW2.jpeg)
+
+---
+#### Charcoal: A self portrait
+![self-portrait](/JEB9i_wtcoLHFxw_Ca1vQ5rVqAIJG-zTkdn4s5B1kzGlJzUUxANb9cBgZ5qb43nOJX_ktn53taS4bEKXfNP6ugk.jpg)
+
+---
+
+#### Watercolor: A landscape painting of SuZhou
+![suzhou](/COEeyZhxw0Q8Q7gGZacP6j1TKwKxRso9h07o5RxXmmCVEN6krJ0o-ZKNs1LZQpG6kWzOASJlUf0hukZVybyN31g.PNG)
+
+
+---
+#### Pencil: A sketch of a beautiful women
+![pencil sketch](/IMG_9340.jpg)
 
 ---
 ---
