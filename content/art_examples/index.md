@@ -14,6 +14,12 @@ image:      "/art_bg.jpg/"
 
 <!-- Insert images here for later -->
 
+#### Watercolor: A drawing of my own dog!
+![HuiHui drawing](/IMG_7681.jpg)
+---
+
+<!-- Insert images here for later -->
+
 #### Watercolor: A drawing of a dragon and pheonix in yinyang format.
 ![Yinyang dragon](/watercolor.jpg)
 

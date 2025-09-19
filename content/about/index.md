@@ -25,12 +25,13 @@ After that day, she began to practice her drawing skills of all sorts of animals
 3. Watercolor 
 4. Charcoal 
 5. Pencils
+6. Oil Painting
 
 Of course, she is overjoyed to try any new medias for anyone who wishes to see their pet drawn in that media. 
 
 Later on, as she continued through her years in highschool, her passion for coding began to bloom. She began learning computer science, working with GitHub, and website managing. 
 
-She has implemented her passion through website managment and organizing/working with Asian festivals with a local community organization, ***The 8 Foundation***, and many other activities (such as science fair). However, it still does not sum up her passion for giving back to her community. 
+She has implemented her passion through website managment and organizing/working with Asian festivals with a local community organization, [***The 8 Foundation***](https://the8foundation.org), and many other activities (such as science fair). However, it still does not sum up her passion for giving back to her community. 
 
 By connecting these two passions, she made this website to give back to the community. 
 

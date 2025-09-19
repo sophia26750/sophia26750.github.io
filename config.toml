@@ -136,6 +136,9 @@ home = ["HTML", "RSS", "Algolia"]
   [[params.addtional_menus]]
   title =  "ART TO HEART"
   href =  "/notes/"
+  [[params.addtional_menus]]
+  title =  "STEM Journey"
+  href =  "/stem/"
 
 
 [outputFormats.Algolia]
