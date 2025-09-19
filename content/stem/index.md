@@ -46,7 +46,8 @@ Upon volunteering, I began to seek out more opportunities around me until I foun
 
 Upon living at Yale and participating in the program. I learned many skills I have never even thought about before. I was able to automate an entire program myself that calculated the magnitudes of a supernova. I photographed images of galaxies, star clusters, and even a nebula. With the calculated magnitudes of a star, I was able to classify what type of supernova SN2025MVN was, estimate the age of my star cluster (NCG6871), and render an image of the Eagle Nebula!
 
-[Click here to view my research paper about my supernova (Sn 2025mvn)](/the_photometry_of_sn2025mvn.pdf)
+[Click here to view my research paper about my supernova (Sn 2025mvn)](/the_photometric_analysis_of_sn2025mvn.pdf)
+
 
 From this program, I worked with a multitude of people all over America, ranging from South Carolina, to California, to Manhattan! This was an experience that forever reshaped my life. Upon leaving this program, I became a much more initiative person, where I'm not scared to communicate with those around me anymore. I refined my coding skills, research skills, and my learning skills. I worked hard in this program, and it taught me many things that I would never forget.
 
