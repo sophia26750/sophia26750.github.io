@@ -46,6 +46,7 @@ Upon volunteering, I began to seek out more opportunities around me until I foun
 
 Upon living at Yale and participating in the program. I learned many skills I have never even thought about before. I was able to automate an entire program myself that calculated the magnitudes of a supernova. I photographed images of galaxies, star clusters, and even a nebula. With the calculated magnitudes of a star, I was able to classify what type of supernova SN2025MVN was, estimate the age of my star cluster (NCG6871), and render an image of the Eagle Nebula!
 
+[Click here to view my research paper about my supernova (Sn 2025mvn)](/the_photometry_of_sn2025mvn.pdf)
 
 From this program, I worked with a multitude of people all over America, ranging from South Carolina, to California, to Manhattan! This was an experience that forever reshaped my life. Upon leaving this program, I became a much more initiative person, where I'm not scared to communicate with those around me anymore. I refined my coding skills, research skills, and my learning skills. I worked hard in this program, and it taught me many things that I would never forget.
 
@@ -57,10 +58,13 @@ Academically, I have also worked hard to maintain my grades in all courses, but 
 With this, I was able to achieve scores that I was proud of in my Dual enrollment and AP classes:
 
 
-AP Computer Science A ⇒ 4
-AP Physics 1 ⇒ 5
-AP Calculus BC ⇒ 5
-Calculus III/Diff EQ (Dual Enrollment) ⇒ A in both semesters
+| Course                                      | Score/Grade           |
+|---------------------------------------------|------------------------|
+| AP Computer Science A                       | 4                      |
+| AP Physics 1                                | 5                      |
+| AP Calculus BC                              | 5                      |
+| Calculus III/Diff EQ (Dual Enrollment)      | A in both semesters    |
+
 
 
 I am beyond happy with the contributions I was able to make over my years and watching myself grow into the comfort of STEM, glad I was able to share my passion with those around me while continuing learning it in a positive light. STEM is truly a topic that will never leave my heart, and I hope to be able to deepen my knowledge forever as I move into my years of college.
@@ -90,7 +94,7 @@ _Plotting out the light curves and a ChiSquared map to find out more detailed in
 _Picture of my team's star cluster_
 ![StarCluster](/CMD_ngc6871.jpg)
 ![StarCluster](/isochrone_fitting_ngc6871.jpg)
-_NGC6871 calculated Color-Magnitude Diagram (CMD) and isochrone fitting to find the age.
+_NGC6871 calculated Color-Magnitude Diagram (CMD) and isochrone fitting to find the age._
 
 
 
