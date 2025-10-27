@@ -74,41 +74,38 @@ I am beyond happy with the contributions I was able to make over my years and wa
 ---
 ## Images of my journey in STEM
 These are some pictures of my journey in STEM, which could include math homeworks, coding, and the YSPA experience!
-![Math Homework](/IMG_9854.jpg)
-_One of the many math homework form Calculus III_
-
 
 ![SN2025MVN SNe](/IMG_9848.jpg)
 ![SN2025MVN SNe](/IMG_9849.jpg) 
-_Picture of my team's supernova: SN2025MVN_
+###### _Picture of my team's supernova: SN2025MVN_
 ![SN2025MVN SNe](/cs_jul24.png)
 ![SN2025MVN SNe](/cs2_jul24.png)
-_The calibration stars plotted out to ensure calculation accuracy for our supernova.
+###### _The calibration stars plotted out to ensure calculation accuracy for our supernova._
 ![SN2025MVN SNe](/accurate_chisq_heatmap.png)
 ![SN2025MVN SNe](/supernova_all_comparisons_light_curve.jpg)
 ![SN2025MVN SNe](/mp_IIb_lc_fit.png)
-_Plotting out the light curves and a ChiSquared map to find out more detailed information of our supernova type, distance, and days since peak. It can be seen that the best fitting light curve is the Type IIb, which is one of the rarest supernovas recorded!_
+###### _Plotting out the light curves and a ChiSquared map to find out more detailed information of our supernova type, distance, and days since peak. It can be seen that the best fitting light curve is the Type IIb, which is one of the rarest supernovas recorded!_
 
 
 ![StarCluster](/ngc_6871.jpg)
 ![StarCluster](/IMG_9851.PNG)
-_Picture of my team's star cluster_
+###### _Picture of my team's star cluster_
 ![StarCluster](/CMD_ngc6871.jpg)
 ![StarCluster](/isochrone_fitting_ngc6871.jpg)
-_NGC6871 calculated Color-Magnitude Diagram (CMD) and isochrone fitting to find the age._
+###### _NGC6871 calculated Color-Magnitude Diagram (CMD) and isochrone fitting to find the age._
 
 
 
 
 ![Eagle Nebula](/IMG_9852.jpg)
 ![Eagle Nebula](/IMG_8559.JPG)
-_Images of the eagle Nebula taken by the 9.25 inch telescope. Images were stacked and rendered with Siril._
+###### _Images of the eagle Nebula taken by the 9.25 inch telescope. Images were stacked and rendered with Siril._
 
 ![process](/IMG_8126.JPG)
 _Astronometry to imprint WCS on the .fits images_
 ![process](/IMG_6504.JPEG)
 ![process](/IMG_6510.JPEG)
-_16-inch telescope at LFOP._
+###### _16-inch telescope at LFOP and comupter system there._
 ![process](/IMG_7956.JPG)
 
 ![stock_tsla](/tsla_600.png)
@@ -117,6 +114,9 @@ _16-inch telescope at LFOP._
 ![epoch_appl](/aapl_epoch_graph.png)
 ![stock_msft](/msft_500.png)
 ![epoch_msft](/msft_epoch_graphs.png)
-_Images of LSTM coding research and stock predictions with their corresponing accuracies._
+###### _Images of LSTM coding research and stock predictions with their corresponing accuracies._
+
+![Math Homework](/IMG_9854.jpg)
+###### _One of the many math homework form Calculus III_
 
 ### If you have any questions please email me at SophiaW26750@gmail.com!
