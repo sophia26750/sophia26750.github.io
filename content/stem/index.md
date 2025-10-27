@@ -105,8 +105,10 @@ _NGC6871 calculated Color-Magnitude Diagram (CMD) and isochrone fitting to find 
 _Images of the eagle Nebula taken by the 9.25 inch telescope. Images were stacked and rendered with Siril._
 
 ![process](/IMG_8126.JPG)
+_Astronometry to imprint WCS on the .fits images_
 ![process](/IMG_6504.JPEG)
 ![process](/IMG_6510.JPEG)
+_16-inch telescope at LFOP._
 ![process](/IMG_7956.JPG)
 
 ![stock_tsla](/tsla_600.png)
