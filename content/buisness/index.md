@@ -1,6 +1,6 @@
 ---
 layout: page
-multilingual: false
+multilingual: true
 ---
 <!-- 
 ---

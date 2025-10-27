@@ -102,12 +102,19 @@ _NGC6871 calculated Color-Magnitude Diagram (CMD) and isochrone fitting to find 
 
 ![Eagle Nebula](/IMG_9852.jpg)
 ![Eagle Nebula](/IMG_8559.JPG)
-
+_Images of the eagle Nebula taken by the 9.25 inch telescope. Images were stacked and rendered with Siril._
 
 ![process](/IMG_8126.JPG)
 ![process](/IMG_6504.JPEG)
 ![process](/IMG_6510.JPEG)
 ![process](/IMG_7956.JPG)
 
+![stock_tsla](/tsla_600.png)
+![epoch_tsla](/tsla_epoch_graphs.png)
+![stock_appl](/appl_400.png)
+![epoch_appl](/aapl_epoch_graph.png)
+![stock_msft](/msft_500.png)
+![epoch_msft](/msft_epoch_graphs.png)
+_Images of LSTM coding research and stock predictions with their corresponing accuracies._
 
 ### If you have any questions please email me at SophiaW26750@gmail.com!

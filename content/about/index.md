@@ -1,6 +1,6 @@
 ---
 layout: page
-multilingual: false
+multilingual: true
 ---
 
 ## About Me
@@ -24,7 +24,7 @@ After that day, she began to practice her drawing skills of all sorts of animals
 2. Chinese paint
 3. Watercolor 
 4. Charcoal 
-5. Pencils
+5. Pencils (2B, 4B, 6B)
 6. Oil Painting
 
 Of course, she is overjoyed to try any new medias for anyone who wishes to see their pet drawn in that media. 
