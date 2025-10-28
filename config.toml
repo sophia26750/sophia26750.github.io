@@ -77,44 +77,9 @@ home = ["HTML", "RSS", "Algolia"]
   [params.social]
   rss            = true 
   email          = "SophiaW26750@gmail.com"
-  #facebook      = "full profile url in facebook"
-  #googleplus    = "full profile url in googleplus"
-  #twitter       = "full profile url in twitter"
-  # linkedin       = "https://www.linkedin.com/in/yourlinkedinid"
-  # stackoverflow  = "https://stackoverflow.com/users/yourstackoverflowid"
-  # instagram     = "full profile url in instagram"
   github         = "https://github.com/sophia26750"
+  youtube       = "https://www.youtube.com/playlist?list=PLoR0NweNuqqYVNJkf4qA8099t244nDpxx"
 
-  # wechat         = "your wechat qr code image"
-
-  #medium        = "full profile url in medium"
-  #slack         = "full workspace url in slack"
-  #pinterest     = "full profile url in pinterest"
-  #reddit        = "full profile url in reddit"
-  #gitlab        = "full profile url in gitlab"
-  #mastodon      = "full profile url in mastodon"
-  #keybase       = "full profile url in keybase"
-  #xing          = "https://www.xing.com/profile/yourxingid"
-  #git           = "full profile url for git user"
-  
-  [[params.friend_link]]
-  title = "Linda的博客"
-  href =  "https://zhaozhihan.com"
-
-  [[params.bookmark_link]]
-  title =  "Martin Fowler"
-  href =  "https://martinfowler.com"
-  [[params.bookmark_link]]
-  title = "ServiceMesher"
-  href =  "http://www.servicemesher.com"
-  [[params.bookmark_link]]
-  title =  "Pxhere"
-  href = "https://pxhere.com"
-  [[params.bookmark_link]]
-  title = "unsplash"
-  href = "https://unsplash.com"
-  
-  
   # [[params.addtional_menus]]
   # title =  "NOTES"
   # href =  "/notes/"
@@ -157,3 +122,34 @@ params = ["categories", "tags"]
     startLevel = 1
   [markup.highlight]
     style = "dracula"
+
+
+  [[params.friend_link]]
+  title = "Linda的博客"
+  href =  "https://zhaozhihan.com"
+
+  [[params.bookmark_link]]
+  title =  "Martin Fowler"
+  href =  "https://martinfowler.com"
+  [[params.bookmark_link]]
+  title = "ServiceMesher"
+  href =  "http://www.servicemesher.com"
+  [[params.bookmark_link]]
+  title =  "Pxhere"
+  href = "https://pxhere.com"
+  [[params.bookmark_link]]
+  title = "unsplash"
+  href = "https://unsplash.com"
+
+    #facebook      = "full profile url in facebook"
+  #twitter       = "full profile url in twitter"
+  # linkedin       = "https://www.linkedin.com/in/yourlinkedinid"
+  # stackoverflow  = "https://stackoverflow.com/users/yourstackoverflowid"
+  # instagram     = "full profile url in instagram"
+  # wechat         = "your wechat qr code image"
+  #slack         = "full workspace url in slack"
+  #pinterest     = "full profile url in pinterest"
+  #reddit        = "full profile url in reddit"
+  #gitlab        = "full profile url in gitlab"
+  #git           = "full profile url for git user"
+  
